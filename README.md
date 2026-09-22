@@ -11,6 +11,8 @@ Requirements:
   - **Samsung Theme Park**
     -> can be installed through apps such as **Fine Lock** or **Nice Lock**
     Or just download the APK.
+    
+    https://www.apkmirror.com/apk/samsung-electronics-co-ltd/samsung-theme-park/samsung-theme-park-1-1-02-2-release/
 
 To use:
   1. Install icons by downloading **Apps** or **Apps.zip** (unzip after)
