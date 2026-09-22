@@ -30,4 +30,4 @@ https://play.google.com/store/apps/details?id=com.dci.dev.somethingwidgets&hl=en
 
 Just be aware that some of the widgets are Pro-only, but you can get the look I have with the free ones.
 
-I want against turning the widgets into high contrast (AMOLED black, because it's the same black as the background, and they look better with a bit of contrast)
+I went against turning the widgets into high contrast (AMOLED black, because it's the same black as the background, and they look better with a bit of contrast)
