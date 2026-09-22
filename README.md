@@ -23,3 +23,11 @@ To use:
   6. Press Save
   7. Press Apply
   8. Done!
+
+The widgets I use are from Something OS Widgets from the Play Store
+
+https://play.google.com/store/apps/details?id=com.dci.dev.somethingwidgets&hl=en_NZ
+
+Just be aware that some of the widgets are Pro-only, but you can get the look I have with the free ones.
+
+I want against turning the widgets into high contrast (AMOLED black, because it's the same black as the background, and they look better with a bit of contrast)
