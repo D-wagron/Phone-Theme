@@ -3,7 +3,7 @@ Pixel art icons I made to use on my phone.
 Apologies if some of your icons are missing (I hope to add more in the future)
 **Through testing, they work on pretty much any Android.**
 
-Example of final look: Example_screenshot.jpg
+[Example of final look:](Example_screenshot.jpg)
 
 (Sorry, literally everyone else)
 
